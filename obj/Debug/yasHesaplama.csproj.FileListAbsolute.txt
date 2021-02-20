@@ -1,0 +1,10 @@
+C:\Users\yns3g\source\repos\yasHesaplama\bin\Debug\yasHesaplama.exe.config
+C:\Users\yns3g\source\repos\yasHesaplama\bin\Debug\yasHesaplama.exe
+C:\Users\yns3g\source\repos\yasHesaplama\bin\Debug\yasHesaplama.pdb
+C:\Users\yns3g\source\repos\yasHesaplama\obj\Debug\yasHesaplama.csprojAssemblyReference.cache
+C:\Users\yns3g\source\repos\yasHesaplama\obj\Debug\yasHesaplama.Properties.Resources.resources
+C:\Users\yns3g\source\repos\yasHesaplama\obj\Debug\yasHesaplama.csproj.GenerateResource.cache
+C:\Users\yns3g\source\repos\yasHesaplama\obj\Debug\yasHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\yns3g\source\repos\yasHesaplama\obj\Debug\yasHesaplama.exe
+C:\Users\yns3g\source\repos\yasHesaplama\obj\Debug\yasHesaplama.pdb
+C:\Users\yns3g\source\repos\yasHesaplama\obj\Debug\yasHesaplama.Form1.resources
